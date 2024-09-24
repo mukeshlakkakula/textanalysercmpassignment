@@ -10,6 +10,17 @@ A React-based web application that allows users to input text, analyze it for un
 - **Responsive Design**: The app is fully responsive and works well on different screen sizes.
 - **Clean UI/UX**: Simple, intuitive interface for easy interaction.
 
+## Demo
+
+Check out the live version of the app here: https://textanalysercmpassignment.vercel.app/
+
+## Installation
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/mukeshlakkakula/textanalysercmpassignment.git
+   ```
+
 ### `npm start`
 
 Runs the app in the development mode.\
