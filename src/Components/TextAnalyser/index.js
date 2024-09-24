@@ -77,7 +77,7 @@ const TextAnalyst = () => {
           className="input-field"
         />
         <button className="replace-btn" onClick={replaceWords}>
-          Replace
+          Replace All
         </button>
       </div>
 
